@@ -1,0 +1,64 @@
+.navbar
+{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background-image: url(images.jpg);
+    height: 150px;
+}
+
+img
+{
+align-items: center;
+}
+
+.brand_name
+{
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+a
+{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    height: 250px;
+}
+
+
+img
+{
+    display: flex;
+    align-items: center;
+    height: 150px;
+}
+
+body
+{
+    background-image: url(new-home.jpg)
+}
+
+h1
+{
+    text-align: center;
+
+}
+
+h2
+{
+    text-align: center;
+}
+
+p
+{
+    display: flex;
+    text-align: justify;
+}
+
+.quote
+{
+    display: flex;
+    text-align: right;
+}
